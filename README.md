@@ -78,4 +78,4 @@ function parseBody(body){
   return obj
 }
 ```
-## 在本地启动服务器，在浏览器输入"http://localhost:8080/test.html"，就能看到对应的静态界面。
+## 在本地启动服务器，在浏览器输入```http://localhost:8080/test.html```就能看到对应的静态界面。
